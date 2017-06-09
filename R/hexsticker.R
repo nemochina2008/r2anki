@@ -33,7 +33,7 @@ sticker(p1, package="r2anki",
 p2 <- "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leitner_system_alternative_no_text.svg/2000px-Leitner_system_alternative_no_text.svg.png"
 sticker(p2, package="r2anki",
         p_color = "#273046", p_size=22, p_family = "bauhaus2",
-        s_x=1, s_y=.95, s_width=.8, s_height=.8,
+        s_x=1, s_y=.95, s_width=.7, s_height=.8,
         h_fill = "#CCC591", h_color = "#273046", h_size = 2,
         url = "https://github.com/henningsway/r2anki",
         u_color = "#273046", u_size = 4,
