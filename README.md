@@ -55,7 +55,7 @@ An *r2anki-R-Markdown-template* was installed with this package. Create a new Rm
 To transform your r2anki-notebook into Anki-cards, please save this document (ideally in your current working directory) and call 
 
 ```
-r2anki::r2anki("r2anki_file.Rmd")
+r2anki::r2anki("r2anki_file.Rmd", invoke_anki = TRUE)
 ```
 
 <!-- ### Other Informations-->
